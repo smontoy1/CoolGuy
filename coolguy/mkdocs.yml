@@ -1,0 +1,7 @@
+site_name: My Cool Guy Web Site
+site_url: http://www.coolguy.us
+nav:
+    - Home: index.md
+    - Why: WhyCoolGuy.md
+    - About: about.md
+theme: readthedocs

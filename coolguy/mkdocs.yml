@@ -4,4 +4,5 @@ nav:
     - Home: index.md
     - Why: WhyCoolGuy.md
     - About: about.md
+    - Bring Your Own Wallet: byow.md
 theme: readthedocs

@@ -1,6 +1,6 @@
-# Quid iugera
+# Example page 
 
-## Raptoresque bulla cerno theatro penates
+## Welcome to the example page...
 
 Lorem markdownum posita. Dis mora; que crinis; rubet oret, mollito, laudes.
 Oceano inquit.
